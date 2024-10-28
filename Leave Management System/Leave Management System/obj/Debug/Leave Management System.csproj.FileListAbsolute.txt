@@ -1,0 +1,14 @@
+C:\Users\tharuka_l\source\repos\Leave Management System\Leave Management System\bin\Debug\Leave Management System.exe.config
+C:\Users\tharuka_l\source\repos\Leave Management System\Leave Management System\bin\Debug\Leave Management System.exe
+C:\Users\tharuka_l\source\repos\Leave Management System\Leave Management System\bin\Debug\Leave Management System.pdb
+C:\Users\tharuka_l\source\repos\Leave Management System\Leave Management System\obj\Debug\Leave Management System.csproj.AssemblyReference.cache
+C:\Users\tharuka_l\source\repos\Leave Management System\Leave Management System\obj\Debug\Leave_Management_System.Login_page.resources
+C:\Users\tharuka_l\source\repos\Leave Management System\Leave Management System\obj\Debug\Leave_Management_System.Properties.Resources.resources
+C:\Users\tharuka_l\source\repos\Leave Management System\Leave Management System\obj\Debug\Leave Management System.csproj.GenerateResource.cache
+C:\Users\tharuka_l\source\repos\Leave Management System\Leave Management System\obj\Debug\Leave Management System.csproj.CoreCompileInputs.cache
+C:\Users\tharuka_l\source\repos\Leave Management System\Leave Management System\obj\Debug\Leave Management System.exe
+C:\Users\tharuka_l\source\repos\Leave Management System\Leave Management System\obj\Debug\Leave Management System.pdb
+C:\Users\tharuka_l\source\repos\Leave Management System\Leave Management System\bin\Debug\en\Leave Management System.resources.dll
+C:\Users\tharuka_l\source\repos\Leave Management System\Leave Management System\obj\Debug\Leave_Management_System.Login_page.en.resources
+C:\Users\tharuka_l\source\repos\Leave Management System\Leave Management System\obj\Debug\en\Leave Management System.resources.dll
+C:\Users\tharuka_l\source\repos\Leave Management System\Leave Management System\obj\Debug\Leave_Management_System.Leave_Apply.resources

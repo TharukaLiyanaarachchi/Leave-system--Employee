@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tharuka_l\\source\\repos\\Leave Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E231935-E5BA-4BE9-AD4F-7BB08169CBD4}|Leave Management System\\Leave Management System.csproj|c:\\users\\tharuka_l\\source\\repos\\leave management system\\leave management system\\leave apply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E231935-E5BA-4BE9-AD4F-7BB08169CBD4}|Leave Management System\\Leave Management System.csproj|solutionrelative:leave management system\\leave apply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E231935-E5BA-4BE9-AD4F-7BB08169CBD4}|Leave Management System\\Leave Management System.csproj|C:\\Users\\tharuka_l\\source\\repos\\Leave Management System\\leave management system\\leave apply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E231935-E5BA-4BE9-AD4F-7BB08169CBD4}|Leave Management System\\Leave Management System.csproj|solutionrelative:leave management system\\leave apply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E231935-E5BA-4BE9-AD4F-7BB08169CBD4}|Leave Management System\\Leave Management System.csproj|C:\\Users\\tharuka_l\\source\\repos\\Leave Management System\\leave management system\\login page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E231935-E5BA-4BE9-AD4F-7BB08169CBD4}|Leave Management System\\Leave Management System.csproj|solutionrelative:leave management system\\login page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E231935-E5BA-4BE9-AD4F-7BB08169CBD4}|Leave Management System\\Leave Management System.csproj|C:\\Users\\tharuka_l\\source\\repos\\Leave Management System\\leave management system\\login page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E231935-E5BA-4BE9-AD4F-7BB08169CBD4}|Leave Management System\\Leave Management System.csproj|solutionrelative:leave management system\\login page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E231935-E5BA-4BE9-AD4F-7BB08169CBD4}|Leave Management System\\Leave Management System.csproj|C:\\Users\\tharuka_l\\source\\repos\\Leave Management System\\leave management system\\login page.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E231935-E5BA-4BE9-AD4F-7BB08169CBD4}|Leave Management System\\Leave Management System.csproj|solutionrelative:leave management system\\login page.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E231935-E5BA-4BE9-AD4F-7BB08169CBD4}|Leave Management System\\Leave Management System.csproj|C:\\Users\\tharuka_l\\source\\repos\\Leave Management System\\leave management system\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E231935-E5BA-4BE9-AD4F-7BB08169CBD4}|Leave Management System\\Leave Management System.csproj|solutionrelative:leave management system\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E231935-E5BA-4BE9-AD4F-7BB08169CBD4}|Leave Management System\\Leave Management System.csproj|C:\\Users\\tharuka_l\\source\\repos\\Leave Management System\\leave management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E231935-E5BA-4BE9-AD4F-7BB08169CBD4}|Leave Management System\\Leave Management System.csproj|solutionrelative:leave management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Leave Apply.cs",
+              "DocumentMoniker": "C:\\Users\\tharuka_l\\source\\repos\\Leave Management System\\Leave Management System\\Leave Apply.cs",
+              "RelativeDocumentMoniker": "Leave Management System\\Leave Apply.cs",
+              "ToolTip": "C:\\Users\\tharuka_l\\source\\repos\\Leave Management System\\Leave Management System\\Leave Apply.cs",
+              "RelativeToolTip": "Leave Management System\\Leave Apply.cs",
+              "ViewState": "AQIAAH4BAAAQMzMzM9M/wIcBAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T08:30:31.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\tharuka_l\\source\\repos\\Leave Management System\\Leave Management System\\Session.cs",
+              "RelativeDocumentMoniker": "Leave Management System\\Session.cs",
+              "ToolTip": "C:\\Users\\tharuka_l\\source\\repos\\Leave Management System\\Leave Management System\\Session.cs",
+              "RelativeToolTip": "Leave Management System\\Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T06:55:32.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Leave Apply.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tharuka_l\\source\\repos\\Leave Management System\\Leave Management System\\Leave Apply.cs",
+              "RelativeDocumentMoniker": "Leave Management System\\Leave Apply.cs",
+              "ToolTip": "C:\\Users\\tharuka_l\\source\\repos\\Leave Management System\\Leave Management System\\Leave Apply.cs [Design]",
+              "RelativeToolTip": "Leave Management System\\Leave Apply.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T08:29:49.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tharuka_l\\source\\repos\\Leave Management System\\Leave Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Leave Management System\\Program.cs",
+              "ToolTip": "C:\\Users\\tharuka_l\\source\\repos\\Leave Management System\\Leave Management System\\Program.cs",
+              "RelativeToolTip": "Leave Management System\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T06:27:52.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login page.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tharuka_l\\source\\repos\\Leave Management System\\Leave Management System\\Login page.Designer.cs",
+              "RelativeDocumentMoniker": "Leave Management System\\Login page.Designer.cs",
+              "ToolTip": "C:\\Users\\tharuka_l\\source\\repos\\Leave Management System\\Leave Management System\\Login page.Designer.cs",
+              "RelativeToolTip": "Leave Management System\\Login page.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T06:27:25.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login page.cs",
+              "DocumentMoniker": "C:\\Users\\tharuka_l\\source\\repos\\Leave Management System\\Leave Management System\\Login page.cs",
+              "RelativeDocumentMoniker": "Leave Management System\\Login page.cs",
+              "ToolTip": "C:\\Users\\tharuka_l\\source\\repos\\Leave Management System\\Leave Management System\\Login page.cs",
+              "RelativeToolTip": "Leave Management System\\Login page.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAWwIcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T19:08:19.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login page.cs [Design - English]",
+              "DocumentMoniker": "C:\\Users\\tharuka_l\\source\\repos\\Leave Management System\\Leave Management System\\Login page.cs",
+              "RelativeDocumentMoniker": "Leave Management System\\Login page.cs",
+              "ToolTip": "C:\\Users\\tharuka_l\\source\\repos\\Leave Management System\\Leave Management System\\Login page.cs [Design - English]",
+              "RelativeToolTip": "Leave Management System\\Login page.cs [Design - English]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:53:20.736Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
